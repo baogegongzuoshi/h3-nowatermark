@@ -1,0 +1,7 @@
+requests
+numpy
+pillow
+scipy
+opencv-contrib-python-headless
+torch
+simple-lama-inpainting
